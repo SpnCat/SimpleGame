@@ -21,4 +21,3 @@ var checKDead = setInterval(function() {
     }
 }, 10);
 
-// Test comments
