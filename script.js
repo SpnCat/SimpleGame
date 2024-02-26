@@ -20,3 +20,5 @@ var checKDead = setInterval(function() {
         alert("You Lose");
     }
 }, 10);
+
+// Test comments
